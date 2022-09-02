@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yixinwong1998
+- 👀 I’m interested in AI techniques and its applications.
+- 🌱 I’m currently learning in MACHINE LEARNING, DEEP LEARNING, REINFORCEMENT LEARNING, and will explore more meaningful fields.
