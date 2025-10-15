@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @yixinwong1998
+- 👋 Hi, this is Ethan Yixin Wang
 - 👀 I’m interested in AI techniques and their applications.
-- 🌱 I’m currently learning and exploring DEEP LEARNING and REINFORCEMENT LEARNING.
+- 🌱 I’m currently learning and exploring DEEP LEARNING and REINFORCEMENT LEARNING on complex systems such as transportation and energy.
